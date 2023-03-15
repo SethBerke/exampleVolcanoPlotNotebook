@@ -1,5 +1,6 @@
 # exampleVolcanoPlotNotebook
 
+Learn about Zenodo here: https://zenodo.org
 
 Be sure to install dependencies in the terminal where you may be running this notebook.
 Before you run the notebook.
